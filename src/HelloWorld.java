@@ -1,14 +1,9 @@
 public class HelloWorld {
 	
 	public static void main(String[] args) {      
-	
-	//klll
-	
-	
-	
-	
-	
-	                              
+
+		//dd
+
 		System.out.println("Hello Wo);
 	}
 }
